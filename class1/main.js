@@ -2,8 +2,8 @@
 
 var greet = require('./hello');
 
-var name = "唐三"
+var s = "唐三"
 
-greet(name);
+greet(s);
 
 
